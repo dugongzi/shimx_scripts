@@ -19,5 +19,5 @@
   }
 
   window.shimxApi.toast('远程脚本示例已加载', 'success');
-  console.log('[RemoteScriptExample] loaded');
+  console.log('[RemoteScriptExample] load111ed');
 })();

@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "updatedAt": "2026-07-08T00:00:00.000Z",
+  "items": [
+    {
+      "id": "remote-script-example",
+      "name": "远程脚本示例",
+      "description": "示例脚本:等待 shimxApi 就绪后弹出加载提示",
+      "version": "1.0.0",
+      "author": "dugongzi",
+      "fileName": "remote-script-example.js",
+      "downloadUrl": "https://raw.githubusercontent.com/dugongzi/shimx_scripts/main/scripts/remote-script-example.js",
+      "sha256": "4eb9cd5cce94c6f8c49a68fc3e5b1c40603eb2a6b43e049eb037b6f52cab1068"
+    }
+  ]
+}
